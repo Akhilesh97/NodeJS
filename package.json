@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "nodejs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhilesh97/NodeJS.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "akhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akhilesh97/NodeJS/issues"
+  },
+  "homepage": "https://github.com/Akhilesh97/NodeJS#readme"
+}
